@@ -1,4 +1,7 @@
 # Scrapy_projects
+- Scrapy is a fast high-level web crawling and web scraping framework (in python), used to crawl websites and extract structured data from their pages.  
+- It can be used for a wide range of purposes, from data mining to monitoring and automated testing. (see https://docs.scrapy.org/en/latest/)
+
 Using python's library scrapy to scrape webpages
 #### __Its uses:__
 - Scrapy can be used to find specific words on web pages and return the webpage url
@@ -6,9 +9,6 @@ Using python's library scrapy to scrape webpages
 
 # Project 1 Part i
 ## __Find Specific Words On Web Pages With Scrapy__
-
-- Scrapy is a fast high-level web crawling and web scraping framework (in python), used to crawl websites and extract structured data from their pages.  
-- It can be used for a wide range of purposes, from data mining to monitoring and automated testing. (see https://docs.scrapy.org/en/latest/)
 
 #### __In this example:__
 - Lets say we want to search flyertalk articles for some information on booking hotels by the phone 
