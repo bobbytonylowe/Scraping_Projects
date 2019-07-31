@@ -4,7 +4,7 @@ Using python's library scrapy to scrape webpages
 - Scrapy can be used to find specific words on web pages and return the webpage url
 - It can be used to find specific information about products on multiple pages
 
-# Project 1
+# Project 1 Part i
 ## __Find Specific Words On Web Pages With Scrapy__
 
 - Scrapy is a fast high-level web crawling and web scraping framework (in python), used to crawl websites and extract structured data from their pages.  
@@ -19,6 +19,7 @@ Using python's library scrapy to scrape webpages
 - 2) cd wordlist_scraper
 - 3) __scrapy crawl webcrawler > hotel_phone_project.csv__
 
+# Project 1 Part ii
 ## __Analysing Web Pages Using Beautiful Soup__
 
 - The second part of this code will be analysing the webpages returned from scrapy
